@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "488979856443",
+    "firebase_url": "https://sentilab-practice1.firebaseio.com",
+    "project_id": "sentilab-practice1",
+    "storage_bucket": "sentilab-practice1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488979856443:android:927f418bffe0d0f996f01e",
+        "android_client_info": {
+          "package_name": "com.example.ss_layoutpractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488979856443-16v78venohum123sf82og1ml5u6g9ovu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzxAgAIFZPx5HH6OQ7msaYNxGexnSIiPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488979856443-16v78venohum123sf82og1ml5u6g9ovu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
